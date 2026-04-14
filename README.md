@@ -126,10 +126,10 @@ Logs and reports are generated at runtime and are excluded from the repository.
 
 ## 👨‍💻 Author
 
-Prithak Das
-Master’s in Advanced Networking & Cybersecurity 
-Developed as a cybersecurity project demonstrating process monitoring, threat detection, and system analysis techniques.  
+**Prithak Das**  
+Master’s in Advanced Networking & Cybersecurity  
 
+Developed as a cybersecurity project demonstrating process monitoring, threat detection, and system analysis techniques.
 ---
 
 ## ⭐ Acknowledgment
