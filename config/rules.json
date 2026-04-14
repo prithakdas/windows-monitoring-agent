@@ -1,0 +1,35 @@
+{
+  "parent_child": [
+    {
+      "parent": "winword.exe",
+      "child": "powershell.exe",
+      "severity": "HIGH"
+    },
+    {
+      "parent": "winword.exe",
+      "child": "cmd.exe",
+      "severity": "HIGH"
+    },
+    {
+      "parent": "chrome.exe",
+      "child": "cmd.exe",
+      "severity": "HIGH"
+    },
+    {
+      "parent": "explorer.exe",
+      "child": "powershell.exe",
+      "severity": "MEDIUM"
+    }
+  ],
+
+  "suspicious_paths": [
+    {
+      "keyword": "\\AppData\\Local\\Temp",
+      "severity": "HIGH"
+    },
+    {
+      "keyword": "\\AppData\\Roaming",
+      "severity": "MEDIUM"
+    }
+  ]
+}
